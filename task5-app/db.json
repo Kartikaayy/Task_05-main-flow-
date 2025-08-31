@@ -1,0 +1,21 @@
+{
+  "products": [
+    {
+      "id": "b919",
+      "Name": "Laptop",
+      "Category": "Electronics",
+      "Price": "95000",
+      "Quantity": "1",
+      "Description": "Good"
+    }
+  ],
+  "buyers": [
+    {
+      "id": "447b",
+      "Name": "Kartik Soni",
+      "Email": "kartik3434@gmail.com",
+      "Phone": "903xyzxyz",
+      "Address": "abc"
+    }
+  ]
+}
